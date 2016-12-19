@@ -8,11 +8,14 @@ When you're done with that, explore [Chart.js](http://www.chartjs.org/) and use 
 
 ## Specifications
 
-- [ ] Complete Database Foundations
+- [ ] ~~Complete Database Foundations
 - [ ] Complete SQL Basics
 - [ ] Complete Modifying Data with SQL
 - [ ] Complete Reporting with SQL
-- [ ] Complete Querying Relational Databases
+- [ ] Complete Querying Relational Databases~~
+
+## Modified Specifications 
+- [ ] All tutorials on [SQL Zoo](http://sqlzoo.net/)
 
 
 ## Stretch Goal
@@ -23,15 +26,15 @@ When you're done with that, explore [Chart.js](http://www.chartjs.org/) and use 
 
 ### Required
 
-- [ ] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
+- [x] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 ## Quality Rubric
 
-- Complete Database Foundations: 20pts
+- ~~Complete Database Foundations: 20pts
 - Complete SQL Basics: 20pts
 - Complete Modifying Data with SQL: 20pts
 - Complete Reporting with SQL: 20pts
-- Complete Querying Relational Databases: 20pts
+- Complete Querying Relational Databases: 20pts~~
 
 ---
 
